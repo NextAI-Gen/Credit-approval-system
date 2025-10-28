@@ -36,8 +36,8 @@ That's it! Everything else runs in containers.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd 68fa45db12c65_Backend_Internship_Assignment
+git clone https://github.com/NextAI-Gen/Credit-approval-system.git
+cd Credit-approval-system
 ```
 
 ### 2. Run the application

@@ -1,0 +1,49 @@
+================================================================================
+ALEMENO BACKEND INTERNSHIP ASSIGNMENT - SUBMISSION
+================================================================================
+
+Project: Credit Approval System
+Submitted by: [Your Name]
+Date: October 28, 2025
+
+================================================================================
+GITHUB REPOSITORY
+================================================================================
+
+https://github.com/NextAI-Gen/Credit-approval-system
+
+================================================================================
+PROJECT OVERVIEW
+================================================================================
+
+✅ Complete Django REST API backend
+✅ PostgreSQL database with Docker setup
+✅ 5 API endpoints implemented:
+   - POST /register - Register new customer
+   - POST /check-eligibility - Check loan eligibility
+   - POST /create-loan - Create new loan
+   - GET /view-loan/<loan_id> - View loan details
+   - GET /view-loans/<customer_id> - View customer's loans
+
+✅ Credit scoring algorithm implemented
+✅ Data ingestion: 300 customers + 753 loans
+✅ Comprehensive documentation
+✅ Unit tests included
+✅ Docker containerization with docker-compose
+
+================================================================================
+QUICK START
+================================================================================
+
+1. Clone the repository:
+   git clone https://github.com/NextAI-Gen/Credit-approval-system.git
+
+2. Run with Docker:
+   docker-compose up --build
+
+3. Access API at:
+   http://localhost:8000
+
+For detailed instructions, see README.md in the repository.
+
+================================================================================
